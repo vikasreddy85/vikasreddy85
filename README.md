@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view?usp=sharing)
 
-- ⚡ Fun fact **I am Indian, but I was born and raised in Japan! 🇮🇳 🇯🇵**
+- ⚡ Fun fact: **I am Indian, but I was born and raised in Japan! 🇮🇳 🇯🇵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
