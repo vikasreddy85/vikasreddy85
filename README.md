@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Reddy</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-- 📫 How to reach me **vikasreddy2313@gmail.com**
+- 📫 How to reach me: **vikasreddy2313@gmail.com**
 
-- 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view?usp=sharing)
+- 📄 Know about my experiences: [**Resume here**](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view?usp=sharing)
 
 - ⚡ Fun fact: **I am Indian, but I was born and raised in Japan! 🇮🇳 🇯🇵**
 
