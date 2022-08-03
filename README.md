@@ -2,17 +2,17 @@
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114c5be44340733d1e99bca501355db14caf489629&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning: **Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on: **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [(Currently Building Website)]
+- 👨‍💻 All of my projects are available at: **[(Currently Building Website)]**
 
-- 📫 How to reach me **vikasreddy2313@gmail.com**
+- 📫 How to reach me: **vikasreddy2313@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/hopSU](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view)
 
-- ⚡ Fun fact **I was born and raised in Japan! 🇮🇳 🇯🇵**
+- ⚡ Fun fact: **I was born and raised in Japan! 🇮🇳 🇯🇵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
