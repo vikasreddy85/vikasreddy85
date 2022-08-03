@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **vikasreddy2313@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view)
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1ONtR7xLaORKDENKAJFsk8NkHNQQEF8bv/view)**
 
 - ⚡ Fun fact: **I was born and raised in Japan! 🇮🇳 🇯🇵**
 
