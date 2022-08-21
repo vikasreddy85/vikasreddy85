@@ -45,6 +45,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+/*
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasreddy85&show_icons=true&locale=en&layout=compact" alt="vikasreddy85" /></p>
-
+*/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasreddy85&show_icons=true&locale=en" alt="vikasreddy85" /></p>
