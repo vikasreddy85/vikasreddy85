@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on: **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at: **[(Currently Building Website)]**
+- 👨‍💻 All of my projects are available at: **[Website](https://vikasreddy85.github.io/)**
 
 - 📫 How to reach me: **vikasreddy2313@gmail.com**
 
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/14ByolZg7h1RtXXIN9bXTX0gpTDFehTVE/view?usp=sharing)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1obQMRgcWuJgxIg36dbobfpGB0iF2nYMy/view?usp=sharing)**
 
 - ⚡ Fun fact: **I was born and raised in Japan! 🇮🇳 🇯🇵**
 
@@ -44,5 +44,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasreddy85&theme=dark&show_icons=true)
